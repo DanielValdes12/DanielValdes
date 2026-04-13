@@ -1,4 +1,4 @@
-[![OpenSSF Best Practices](https://www.bestpractices.dev/projects/12520/badge)](https://www.bestpractices.dev/projects/12520)
+[![OpenSSF Best Practices](https://www.bestpractices.dev/projects/12520/badge?v=1)](https://www.bestpractices.dev/projects/12520)
 [![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/DanielValdes12/DanielValdes/badge)](https://scorecard.dev/viewer/?uri=github.com/DanielValdes12/DanielValdes)
 
 
